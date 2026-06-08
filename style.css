@@ -1,0 +1,18 @@
+/* ==========================================================================
+   1. CONFIGURAÇÕES GERAIS E VARIÁVEIS
+   ========================================================================== */
+:root {
+    --cor-principal: #2E7D32;       /* Verde Agro */
+    --cor-secundaria: #1565C0;      /* Azul Tecnologia */
+    --cor-fundo: #F5F7F8;           /* Cinza Claro */
+    --cor-texto-escuro: #263238;    /* Grafite */
+    --cor-texto-claro: #FFFFFF;     /* Branco */
+    --fonte-principal: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --sombra: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transicao: all 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
